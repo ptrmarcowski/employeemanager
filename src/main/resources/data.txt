@@ -1,0 +1,40 @@
+{
+    "id": 1,
+    "email": "jankowalski@gmail.com",
+    "imageURL": "https://thumbs.dreamstime.com/z/u%C5%9Bmiechni%C4%99ta-avatar-ch%C5%82opiec-grafika-73283392.jpg",
+    "jobTitle": "Java",
+    "name": "Jan Kowalski",
+    "phone": "543123456"
+}
+{
+    "id": 2,
+    "email": "krzysztofnowak@gmail.com",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/03/31/19/56/avatar-1295401__340.png",
+    "jobTitle": "SQL",
+    "name": "Krzysztof Nowak",
+    "phone": "765123456"
+}
+{
+    "id": 3,
+    "email": "marcinradecki@gmail.com",
+    "imageURL": "https://media.istockphoto.com/vectors/man-avatar-male-vector-id1130899357",
+    "jobTitle": "JavaScript",
+    "name": "Marcin Radecki",
+    "phone": "876123456"
+}
+{
+    "id": 4,
+    "email": "piotrdobrowolski@gmail.com",
+    "imageURL": "https://cdn.pixabay.com/photo/2016/03/31/19/56/avatar-1295397_960_720.png",
+    "jobTitle": "C++",
+    "name": "Piotr Dobrowolski",
+    "phone": "534987654"
+}
+{
+    "id": 5,
+    "email": "jakubbodo@gmail.com",
+    "imageURL": "https://as2.ftcdn.net/v2/jpg/02/40/93/99/500_F_240939983_Co5YTOM3VTrwZ6T5BKC29T8Br3mR0ui2.jpg",
+    "jobTitle": "Python",
+    "name": "Jakub Bodo",
+    "phone": "897132354"
+}
