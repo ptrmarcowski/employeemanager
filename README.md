@@ -4,4 +4,4 @@ Tech: Spring Boot, Java, Angular, Bootstrap, MySQL, Maven
 
 Front End: /src/main/resources/webapp/employeemanagerapp
 
-https://github.com/ptrmarcowski/employeemanager/blob/master/App.png?raw=true
+![alt text](https://github.com/ptrmarcowski/employeemanager/blob/master/App.png?raw=true)
